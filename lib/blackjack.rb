@@ -62,6 +62,6 @@ def runner
   welcome
   num = initial_round
   until num > 21
-  
+  num = hit?()
 end
     
