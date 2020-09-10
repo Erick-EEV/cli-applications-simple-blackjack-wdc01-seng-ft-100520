@@ -46,6 +46,7 @@ def hit?(num)
       elsif input != 's' || 'h'
       puts invalid_command
       return prompt_user
+      binding.pry
   end
 end
 
