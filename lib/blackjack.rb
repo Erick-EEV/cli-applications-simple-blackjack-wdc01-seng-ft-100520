@@ -60,5 +60,7 @@ end
 
 def runner
   welcome
+  num = initial_round
+  
 end
     
