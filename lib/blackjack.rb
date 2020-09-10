@@ -60,10 +60,5 @@ end
 
 def runner
   welcome
-  initial_round
-  hit?
-  num > 21
-end_game
-  # code runner here
 end
     
